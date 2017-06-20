@@ -1,0 +1,19 @@
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.core
+*.gch
+*.tmp.*
+*.dbg
+*.DBG
+
+# for temp .doc
+~*
+*~
+*.ini
+*.exe.*
+
